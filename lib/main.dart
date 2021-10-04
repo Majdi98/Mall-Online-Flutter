@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         text: 'Toys',
                       ),
                       Tab(
-                        text: 'Clothese',
+                        text: 'Clothes',
                       ),
                       Tab(
                         text: 'Cooking',
